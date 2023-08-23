@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">T.MIC_Demo</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+    <string name="hint_ip">IP 주소</string>
+    <string name="hint_port">Port 번호</string>
+    <string name="network_if">연동 Protocol</string>
+    <string name="conn">연결</string>
+    <string name="disconn">연결해제</string>
+    <string name="mute">MUTE</string>
+    <string name="unmute">UNMUTE</string>
+    <string name="if_text">연동 인터페이스</string>
+    <string name="spinner_desc">Protocol 선택</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="if_list">
+        <item>선택안함</item>
+        <item>UDP</item>
+        <item>TCP/IP</item>
+    </string-array>
+</resources>
