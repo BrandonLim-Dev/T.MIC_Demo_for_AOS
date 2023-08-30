@@ -7,8 +7,10 @@
     <string name="network_if">연동 Protocol</string>
     <string name="conn">연결</string>
     <string name="disconn">연결해제</string>
-    <string name="mute">MUTE</string>
-    <string name="unmute">UNMUTE</string>
+    <string name="mute">마이크 켜짐</string>
+    <string name="unmute">마이크 꺼짐</string>
     <string name="if_text">연동 인터페이스</string>
     <string name="spinner_desc">Protocol 선택</string>
+    <string name="def_ip">211.201.11.12</string>
+    <string name="def_port">50030</string>
 </resources>
