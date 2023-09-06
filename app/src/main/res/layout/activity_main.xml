@@ -18,7 +18,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_begin="0dp" />
+        app:layout_constraintGuide_end="731dp"
+        app:layout_constraintGuide_percent="0.01"/>
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline3"
@@ -151,6 +152,8 @@
                 android:layout_width="150dp"
                 android:layout_height="55dp"
                 android:text="@string/conn"
+                android:textSize="17sp"
+                android:backgroundTint="@color/red"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toStartOf="@id/btnMute"/>
@@ -160,6 +163,8 @@
                 android:layout_width="150dp"
                 android:layout_height="55dp"
                 android:text="@string/unmute"
+                android:textSize="17sp"
+                android:backgroundTint="@color/red"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@id/btnConn" />

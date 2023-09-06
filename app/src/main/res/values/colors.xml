@@ -9,4 +9,21 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ON">#90ee90</color>
     <color name="OFF">#ffb6c1</color>
+    <!-- Android Matarial Theme Color -->
+    <color name="red">#e94340</color>
+    <color name="pink">#dc2d64</color>
+    <color name="purple">#9531aa</color>
+    <color name="deeppurple">#6441b0</color>
+    <color name="indigo">#4555af</color>
+    <color name="blue">#5999ec</color>
+    <color name="lightblue">#62adee</color>
+    <color name="cyan">#69bdd2</color>
+    <color name="teal">#519687</color>
+    <color name="green">#5ead5b</color>
+    <color name="lightgreen">#92c25b</color>
+    <color name="lime">#cedb58</color>
+    <color name="yellow">#f7ea5f</color>
+    <color name="amber">#eebf43</color>
+    <color name="orange">#e79638</color>
+
 </resources>
